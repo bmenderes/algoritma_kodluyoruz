@@ -47,4 +47,8 @@ Merge Sort
 [11,16,21] [8,12,22]
 [8,11,12,16,21,22]
 
+Binary Search
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+![binary](https://user-images.githubusercontent.com/87219893/190627652-3868d4dd-134c-410b-b42c-f48fe1ee9615.png)
+![binary](https://user-images.githubusercontent.com/87219893/190627719-14066cb1-4316-4117-98cc-c02974005786.png)
 
